@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Finnace and Accounting
+- 🔭 I’m currently working on Finance and Accounting
 - 🌱 I’m currently learning R, Python, Latex, Stata
 - 🤔 I’m looking for help with R 
 - 💬 Ask me about Finance and Accounting
