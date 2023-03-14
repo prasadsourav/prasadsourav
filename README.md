@@ -1,6 +1,6 @@
 👋 Hey there! I'm Sourav, a finance and accounting enthusiast who loves analyzing data 📊
 
-🔭 Currently, I'm working on a project to analyze financial trends in the healthcare industry using R 🏥
+🔭 Currently, I'm working on a project to analyze financial trends using R 🏥
 
 🌱 I'm also learning Python 🐍, Latex 📝, and Stata 📊 to expand my data analysis toolkit
 
