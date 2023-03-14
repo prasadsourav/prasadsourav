@@ -1,10 +1,16 @@
-### Hi there 👋
-- 🔭 I’m currently working on Finance and Accounting
-- 🌱 I’m currently learning R, Python, Latex, Stata
-- 🤔 I’m looking for help with R 
-- 💬 Ask me about Finance and Accounting
-- 😄 Pronouns: He/Him
-- 📫 emailsouravprasad@gmail.com
+👋 Hey there! I'm Sourav, a finance and accounting enthusiast who loves analyzing data 📊
+
+🔭 Currently, I'm working on a project to analyze financial trends in the healthcare industry using R 🏥
+
+🌱 I'm also learning Python 🐍, Latex 📝, and Stata 📊 to expand my data analysis toolkit
+
+🤔 I could use some help with R, particularly with time series analysis ⏰
+
+💬 Ask me anything about finance and accounting 💰
+
+😄 Pronouns: He/Him
+
+📫 Reach me at emailsouravprasad@gmail.com 📧
 <!--
 **prasadsourav/prasadsourav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
