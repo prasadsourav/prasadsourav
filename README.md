@@ -4,7 +4,7 @@
 
 🌱 I'm also learning Python 🐍, Latex 📝, and Stata 📊 to expand my data analysis toolkit
 
-🤔 I could use some help with R, particularly with time series analysis ⏰
+🤔 I could use some help with R, particularly with panel data analysis ⏰
 
 💬 Ask me anything about finance and accounting 💰
 
