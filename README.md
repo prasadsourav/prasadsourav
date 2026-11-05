@@ -1,20 +1,42 @@
-👋 Hey there! I'm Sourav, a finance and accounting enthusiast who loves analyzing data 📊
+# Hi, I'm Sourav Prasad
 
-🔭 Currently, I'm working on a project to analyze financial trends using R 🏥
+PhD Scholar in Finance and Accounting at the **Indian Institute of Management Bodh Gaya**
 
-🌱 I'm also learning Python 🐍, Latex 📝, and Stata 📊 to expand my data analysis toolkit
+I study how investor behavior and sustainability shape financial markets. My work sits at the intersection of behavioral finance and climate finance, with the goal of producing rigorous, policy-relevant research for leading finance and accounting journals.
 
-🤔 I could use some help with R, particularly with panel data analysis ⏰
+## Research Interests
 
-💬 Ask me anything about finance and accounting 💰
+- **Behavioral Finance:** investor sentiment, market anomalies, and decision making under uncertainty
+- **Climate Finance:** climate risk, green bonds, and the pricing of transition and physical risk
+- **ESG and Sustainability:** ESG disclosure, sustainability reporting, and firm value
+- **Empirical Corporate Finance and Accounting:** panel data methods and causal inference
 
-😄 Pronouns: He/Him
+## Current Work
 
-📫 Reach me at emailsouravprasad@gmail.com 📧
-<!--
-**prasadsourav/prasadsourav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Analyzing financial and market trends using panel data in R and Stata
+- Building reproducible research workflows for empirical finance projects
+- Exploring how sentiment and ESG information are reflected in asset prices
 
-Here are some ideas to get you started:
+## Toolkit
 
+| Area | Tools |
+|------|-------|
+| Statistical analysis | R, Stata |
+| Programming | Python |
+| Writing and typesetting | LaTeX, Overleaf |
+| Methods | Panel data econometrics, event studies, textual analysis |
 
--->
+## Beyond Research
+
+- **Green Finance Insights:** a weekly LinkedIn newsletter on climate and sustainable finance, read by more than 1,100 subscribers
+- **LinkedIn:** sharing practical insights on finance, accounting, and climate finance with a community of more than 6,600 followers
+- **LinkedIn Collaborative Articles:** contributing expert perspectives on finance and sustainability topics
+
+## Open to Collaboration
+
+I am always glad to connect with researchers, practitioners, and students working on climate finance, ESG, or behavioral finance. If you are working with panel data in R, I would also value an exchange of ideas and code.
+
+## Get in Touch
+
+- Email: emailsouravprasad@gmail.com
+- Pronouns: He/Him
