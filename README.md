@@ -28,7 +28,7 @@ I study how investor behavior and sustainability shape financial markets. My wor
 
 ## Beyond Research
 
-- **Green Finance Insights:** a weekly LinkedIn newsletter on climate and sustainable finance, read by more than 1,100 subscribers
+- **[Green Finance Insights](https://www.linkedin.com/newsletters/green-finance-insights-7024074183236100097/):** a weekly LinkedIn newsletter on climate and sustainable finance, read by more than 1,100 subscribers
 - **LinkedIn:** sharing practical insights on finance, accounting, and climate finance with a community of more than 6,600 followers
 - **LinkedIn Collaborative Articles:** contributing expert perspectives on finance and sustainability topics
 
